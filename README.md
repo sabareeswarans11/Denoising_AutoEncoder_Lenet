@@ -1,6 +1,6 @@
 # Denoising_AutoEncoder_Lenet
-1)denoising the input digit image with random noises.
-2)classifying the input digit image.
+1) denoising the input digit image with random noises.
+2) classifying the input digit image.
 
 <img width="700" alt="Screenshot 2022-05-19 at 3 53 20 PM" src="https://user-images.githubusercontent.com/94094997/169392498-2114958f-aee8-4aa2-9405-6b726c7fec7a.png">
 
